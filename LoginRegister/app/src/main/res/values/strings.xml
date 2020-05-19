@@ -1,0 +1,11 @@
+<resources>
+<string name="app_name">HomePT</string>
+<string name="hint_id">ID</string>
+<string name="hint_password">password</string>
+<string name="hint_name">성명을 입력하세요</string>
+<string name="hint_mobileNO">휴대폰번호를 입력하세요</string>
+<string name="hint_email">이메일을 입력하세요</string>
+<string name="btn_login">Login</string>
+<string name="btn_register">Sign up</string>
+<string name="btn_logout">로그아웃</string>
+</resources>
