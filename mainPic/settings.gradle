@@ -1,0 +1,2 @@
+rootProject.name='mainPic'
+include ':app'
